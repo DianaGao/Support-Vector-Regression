@@ -6,7 +6,7 @@ The company wants to develop an accurate compensation delivery base on the work 
 # Solution
 Because the scatter plot of the datasets shows the non-linear relationship (As shown below), hence the model chose is the SVR machine learning model to build the non-linear regression. 
 
-![](originalPlot.PNG)
+![](OriginalScatter.PNG)
 
 # Technical concern
 1. SVR Class in the scikit-learn does not include the feature scaling procedure, hence the data need to be preprocessing before using to train the model.
@@ -17,7 +17,7 @@ Because the scatter plot of the datasets shows the non-linear relationship (As s
 1. The algorithms are sensitive to the magnitude. Non scaled inputs could deviate the weights and contribute to the bad model.
 2. Can faster the calculation. 
 
-## visualization to see the meaning of the scaling
+## Visualization to see the meaning of the scaling
 ![](Scaling.PNG)
 
 # Result
