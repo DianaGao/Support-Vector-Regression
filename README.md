@@ -25,7 +25,7 @@ SVR model captures the relationship between the position level and the according
 
 ![](SVR.PNG)
 
-Here is an interesting article on should the CEO compensation. Statistical research on the correlation between CEO income and the company stock price performance.
+Here is an interesting article about the CEO compensation. Statistical research on the correlation between CEO income and the company stock price performance.
 
 https://www.institutionalinvestor.com/article/b1db3jy3201d38/The-MBA-Myth-and-the-Cult-of-the-CEO
 
